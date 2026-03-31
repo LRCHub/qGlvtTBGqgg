@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DayToLive GT7 M!X",
+  "base_artist": "daiki kasho",
+  "createdAt": "2026-03-31T06:21:48.915056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DayToLive GT7 M!X",
+      "artist": "daiki kasho",
+      "has_synced": true,
+      "path": "select/01_DayToLive_GT7_M!X_daiki_kasho.lrc"
+    }
+  ]
+}
